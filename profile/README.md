@@ -1,4 +1,4 @@
-# Aincrad Dev
+# <p style="text-align: center;">Aincrad Dev</p>
 
 ![Aincrad logo](../assets/aincrad-dev-entardecer.jpeg)
 
